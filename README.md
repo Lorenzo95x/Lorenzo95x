@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lorenzo95x
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and Java scripto languages
+- 🌱 I’m currently learning HTML, CSS and Java script languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
